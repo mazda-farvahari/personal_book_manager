@@ -1,6 +1,4 @@
-def show_books(books):
-    for i in books:
-        print("your book:", i)
+from books import show_books
 
 name = input("Please enter your name: ")
 print("welcome", name)
