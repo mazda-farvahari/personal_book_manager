@@ -1,0 +1,11 @@
+# pycache folder
+__pycache__/
+
+# log files
+*.log
+
+# books.json
+books.json
+
+# .env file
+.env
