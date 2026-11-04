@@ -1,5 +1,6 @@
 # Personal Book Manager
-![Static Badge](https://img.shields.io/badge/python-3.12-blue)
+![Static Badge](https://img.shields.io/badge/python-blue?logo=python&logoColor=white)
+
 
 A simple book manager built with python
 
@@ -39,7 +40,7 @@ Install the requires packages:
 python -m pip install -r requirements.txt
 ```
 
-## Envoirment setup
+## Envoiroment setup
 create a `.env` as a template
 
 Use `.env.example` as a template
