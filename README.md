@@ -10,7 +10,14 @@ A simple book manager built with python
 - save books
 - load saved books
 - admin mode
+- set task priority
 
+## Task priority 
+Each task can have one of thes priority levels:
+- low
+- medium
+- high
+- 
 ## Project Structure
 
 ```text
