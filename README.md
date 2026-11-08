@@ -12,8 +12,8 @@ A simple book manager built with python
 - admin mode
 - set book priority
 
-## Task priority 
-Each task can have one of thes priority levels:
+## Book priority 
+Each book can have one of thes priority levels:
 - low
 - medium
 - high
