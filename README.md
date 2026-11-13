@@ -17,7 +17,7 @@ Each book can have one of thes priority levels:
 - low
 - medium
 - high
-- 
+
 ## Project Structure
 
 ```text
