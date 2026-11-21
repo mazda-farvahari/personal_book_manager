@@ -29,6 +29,7 @@ for i in range(count):
         "priority" : priority
     }
     books_list.append(book)
+    print("Python basic added successfully")
 
 show_books(books_list)
 save_books(books_list)
